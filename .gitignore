@@ -464,3 +464,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/tex,latex,linux,macos,windows
+
+pd_report

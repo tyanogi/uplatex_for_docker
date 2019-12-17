@@ -5,4 +5,5 @@ services:
     container_name: tex
     tty: true
     volumes:  
-      - ./:/workdir
+      - ./:/workdir/
+    working_dir: /workdir/pd_report
